@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/atm-21-generator-react-proto/static/css/main.a617e044.chunk.css",
-    "main.js": "/atm-21-generator-react-proto/static/js/main.1f4283b2.chunk.js",
-    "main.js.map": "/atm-21-generator-react-proto/static/js/main.1f4283b2.chunk.js.map",
-    "runtime-main.js": "/atm-21-generator-react-proto/static/js/runtime-main.f368faf8.js",
-    "runtime-main.js.map": "/atm-21-generator-react-proto/static/js/runtime-main.f368faf8.js.map",
-    "static/js/2.afd22c88.chunk.js": "/atm-21-generator-react-proto/static/js/2.afd22c88.chunk.js",
-    "static/js/2.afd22c88.chunk.js.map": "/atm-21-generator-react-proto/static/js/2.afd22c88.chunk.js.map",
-    "static/js/3.d27930c5.chunk.js": "/atm-21-generator-react-proto/static/js/3.d27930c5.chunk.js",
-    "static/js/3.d27930c5.chunk.js.map": "/atm-21-generator-react-proto/static/js/3.d27930c5.chunk.js.map",
-    "index.html": "/atm-21-generator-react-proto/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/atm-21-generator-react-proto/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.afd22c88.chunk.js.LICENSE.txt": "/atm-21-generator-react-proto/static/js/2.afd22c88.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/atm-21-generator-react-proto/static/media/logo.6ce24c58.svg"
+    "main.css": "/generator-experiments/static/css/main.a617e044.chunk.css",
+    "main.js": "/generator-experiments/static/js/main.1f4283b2.chunk.js",
+    "main.js.map": "/generator-experiments/static/js/main.1f4283b2.chunk.js.map",
+    "runtime-main.js": "/generator-experiments/static/js/runtime-main.c9518030.js",
+    "runtime-main.js.map": "/generator-experiments/static/js/runtime-main.c9518030.js.map",
+    "static/js/2.afd22c88.chunk.js": "/generator-experiments/static/js/2.afd22c88.chunk.js",
+    "static/js/2.afd22c88.chunk.js.map": "/generator-experiments/static/js/2.afd22c88.chunk.js.map",
+    "static/js/3.d27930c5.chunk.js": "/generator-experiments/static/js/3.d27930c5.chunk.js",
+    "static/js/3.d27930c5.chunk.js.map": "/generator-experiments/static/js/3.d27930c5.chunk.js.map",
+    "index.html": "/generator-experiments/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/generator-experiments/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.afd22c88.chunk.js.LICENSE.txt": "/generator-experiments/static/js/2.afd22c88.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/generator-experiments/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f368faf8.js",
+    "static/js/runtime-main.c9518030.js",
     "static/js/2.afd22c88.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.1f4283b2.chunk.js"
