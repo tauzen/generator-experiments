@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/generator-experiments/static/css/main.a617e044.chunk.css",
-    "main.js": "/generator-experiments/static/js/main.80494e85.chunk.js",
-    "main.js.map": "/generator-experiments/static/js/main.80494e85.chunk.js.map",
+    "main.css": "/generator-experiments/static/css/main.0e596e90.chunk.css",
+    "main.js": "/generator-experiments/static/js/main.ac0c173e.chunk.js",
+    "main.js.map": "/generator-experiments/static/js/main.ac0c173e.chunk.js.map",
     "runtime-main.js": "/generator-experiments/static/js/runtime-main.c9518030.js",
     "runtime-main.js.map": "/generator-experiments/static/js/runtime-main.c9518030.js.map",
     "static/js/2.afd22c88.chunk.js": "/generator-experiments/static/js/2.afd22c88.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.d27930c5.chunk.js": "/generator-experiments/static/js/3.d27930c5.chunk.js",
     "static/js/3.d27930c5.chunk.js.map": "/generator-experiments/static/js/3.d27930c5.chunk.js.map",
     "index.html": "/generator-experiments/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/generator-experiments/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.0e596e90.chunk.css.map": "/generator-experiments/static/css/main.0e596e90.chunk.css.map",
     "static/js/2.afd22c88.chunk.js.LICENSE.txt": "/generator-experiments/static/js/2.afd22c88.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/generator-experiments/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c9518030.js",
     "static/js/2.afd22c88.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.80494e85.chunk.js"
+    "static/css/main.0e596e90.chunk.css",
+    "static/js/main.ac0c173e.chunk.js"
   ]
 }
