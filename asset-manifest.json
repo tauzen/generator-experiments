@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/generator-experiments/static/css/main.1004fc78.chunk.css",
-    "main.js": "/generator-experiments/static/js/main.2ceb8a7c.chunk.js",
-    "main.js.map": "/generator-experiments/static/js/main.2ceb8a7c.chunk.js.map",
+    "main.css": "/generator-experiments/static/css/main.412ddc3f.chunk.css",
+    "main.js": "/generator-experiments/static/js/main.5c627699.chunk.js",
+    "main.js.map": "/generator-experiments/static/js/main.5c627699.chunk.js.map",
     "runtime-main.js": "/generator-experiments/static/js/runtime-main.fa2e6dfe.js",
     "runtime-main.js.map": "/generator-experiments/static/js/runtime-main.fa2e6dfe.js.map",
     "static/js/2.32bc86b5.chunk.js": "/generator-experiments/static/js/2.32bc86b5.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.25a013c3.chunk.js": "/generator-experiments/static/js/3.25a013c3.chunk.js",
     "static/js/3.25a013c3.chunk.js.map": "/generator-experiments/static/js/3.25a013c3.chunk.js.map",
     "index.html": "/generator-experiments/index.html",
-    "static/css/main.1004fc78.chunk.css.map": "/generator-experiments/static/css/main.1004fc78.chunk.css.map",
+    "static/css/main.412ddc3f.chunk.css.map": "/generator-experiments/static/css/main.412ddc3f.chunk.css.map",
     "static/js/2.32bc86b5.chunk.js.LICENSE.txt": "/generator-experiments/static/js/2.32bc86b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fa2e6dfe.js",
     "static/js/2.32bc86b5.chunk.js",
-    "static/css/main.1004fc78.chunk.css",
-    "static/js/main.2ceb8a7c.chunk.js"
+    "static/css/main.412ddc3f.chunk.css",
+    "static/js/main.5c627699.chunk.js"
   ]
 }
