@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/generator-experiments/static/css/main.4001d145.chunk.css",
-    "main.js": "/generator-experiments/static/js/main.b50a1b6c.chunk.js",
-    "main.js.map": "/generator-experiments/static/js/main.b50a1b6c.chunk.js.map",
+    "main.css": "/generator-experiments/static/css/main.c2e08666.chunk.css",
+    "main.js": "/generator-experiments/static/js/main.74d7af33.chunk.js",
+    "main.js.map": "/generator-experiments/static/js/main.74d7af33.chunk.js.map",
     "runtime-main.js": "/generator-experiments/static/js/runtime-main.e3e6b4c4.js",
     "runtime-main.js.map": "/generator-experiments/static/js/runtime-main.e3e6b4c4.js.map",
     "static/js/2.32bc86b5.chunk.js": "/generator-experiments/static/js/2.32bc86b5.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.4c15da07.chunk.js": "/generator-experiments/static/js/3.4c15da07.chunk.js",
     "static/js/3.4c15da07.chunk.js.map": "/generator-experiments/static/js/3.4c15da07.chunk.js.map",
     "index.html": "/generator-experiments/index.html",
-    "static/css/main.4001d145.chunk.css.map": "/generator-experiments/static/css/main.4001d145.chunk.css.map",
+    "static/css/main.c2e08666.chunk.css.map": "/generator-experiments/static/css/main.c2e08666.chunk.css.map",
     "static/js/2.32bc86b5.chunk.js.LICENSE.txt": "/generator-experiments/static/js/2.32bc86b5.chunk.js.LICENSE.txt",
     "static/media/01back_bat_wings.3e77ca0e.png": "/generator-experiments/static/media/01back_bat_wings.3e77ca0e.png",
     "static/media/01back_bat_wings.a9678dff.png": "/generator-experiments/static/media/01back_bat_wings.a9678dff.png",
@@ -473,7 +473,7 @@
   "entrypoints": [
     "static/js/runtime-main.e3e6b4c4.js",
     "static/js/2.32bc86b5.chunk.js",
-    "static/css/main.4001d145.chunk.css",
-    "static/js/main.b50a1b6c.chunk.js"
+    "static/css/main.c2e08666.chunk.css",
+    "static/js/main.74d7af33.chunk.js"
   ]
 }
