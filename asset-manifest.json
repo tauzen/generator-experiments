@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/generator-experiments/static/css/main.6a207050.chunk.css",
-    "main.js": "/generator-experiments/static/js/main.74d7af33.chunk.js",
-    "main.js.map": "/generator-experiments/static/js/main.74d7af33.chunk.js.map",
+    "main.js": "/generator-experiments/static/js/main.465eb9e1.chunk.js",
+    "main.js.map": "/generator-experiments/static/js/main.465eb9e1.chunk.js.map",
     "runtime-main.js": "/generator-experiments/static/js/runtime-main.e3e6b4c4.js",
     "runtime-main.js.map": "/generator-experiments/static/js/runtime-main.e3e6b4c4.js.map",
     "static/js/2.32bc86b5.chunk.js": "/generator-experiments/static/js/2.32bc86b5.chunk.js",
@@ -168,8 +168,8 @@
     "static/media/05shoes_black.bc74f9aa.png": "/generator-experiments/static/media/05shoes_black.bc74f9aa.png",
     "static/media/05shoes_black_boots.6d18f9ac.png": "/generator-experiments/static/media/05shoes_black_boots.6d18f9ac.png",
     "static/media/05shoes_cowboy_brown.9cc3b58f.png": "/generator-experiments/static/media/05shoes_cowboy_brown.9cc3b58f.png",
-    "static/media/05shoes_dark_armor.9b6d5868.png": "/generator-experiments/static/media/05shoes_dark_armor.9b6d5868.png",
     "static/media/05shoes_darkarmor.8af5dc2c.png": "/generator-experiments/static/media/05shoes_darkarmor.8af5dc2c.png",
+    "static/media/05shoes_darkarmor.9b6d5868.png": "/generator-experiments/static/media/05shoes_darkarmor.9b6d5868.png",
     "static/media/05shoes_hunter_boots.59fdaf15.png": "/generator-experiments/static/media/05shoes_hunter_boots.59fdaf15.png",
     "static/media/05shoes_hunter_boots.9ab5c11b.png": "/generator-experiments/static/media/05shoes_hunter_boots.9ab5c11b.png",
     "static/media/05shoes_knight.3af50060.png": "/generator-experiments/static/media/05shoes_knight.3af50060.png",
@@ -350,8 +350,8 @@
     "static/media/12facialhair_beard_red.6a325e09.png": "/generator-experiments/static/media/12facialhair_beard_red.6a325e09.png",
     "static/media/12facialhair_blonde_beard.0d0fd315.png": "/generator-experiments/static/media/12facialhair_blonde_beard.0d0fd315.png",
     "static/media/12facialhair_blonde_beard.1209292a.png": "/generator-experiments/static/media/12facialhair_blonde_beard.1209292a.png",
+    "static/media/12facialhair_curled_moustache.5ecac957.png": "/generator-experiments/static/media/12facialhair_curled_moustache.5ecac957.png",
     "static/media/12facialhair_curled_moustache.b22848d9.png": "/generator-experiments/static/media/12facialhair_curled_moustache.b22848d9.png",
-    "static/media/12facialhair_curled_moustache2.5ecac957.png": "/generator-experiments/static/media/12facialhair_curled_moustache2.5ecac957.png",
     "static/media/12facialhair_dark_beard.b976bcde.png": "/generator-experiments/static/media/12facialhair_dark_beard.b976bcde.png",
     "static/media/12facialhair_dark_beard.c4f7dae9.png": "/generator-experiments/static/media/12facialhair_dark_beard.c4f7dae9.png",
     "static/media/12facialhair_goatie_black.02f11973.png": "/generator-experiments/static/media/12facialhair_goatie_black.02f11973.png",
@@ -397,8 +397,8 @@
     "static/media/14accessory_left_dagger.80955914.png": "/generator-experiments/static/media/14accessory_left_dagger.80955914.png",
     "static/media/14accessory_left_dagger.f8269ec7.png": "/generator-experiments/static/media/14accessory_left_dagger.f8269ec7.png",
     "static/media/14accessory_left_energysphere.287cb4d7.png": "/generator-experiments/static/media/14accessory_left_energysphere.287cb4d7.png",
-    "static/media/14accessory_left_floating_brain.fa65b30c.png": "/generator-experiments/static/media/14accessory_left_floating_brain.fa65b30c.png",
     "static/media/14accessory_left_floatingbrain.6b93dced.png": "/generator-experiments/static/media/14accessory_left_floatingbrain.6b93dced.png",
+    "static/media/14accessory_left_floatingbrain.fa65b30c.png": "/generator-experiments/static/media/14accessory_left_floatingbrain.fa65b30c.png",
     "static/media/14accessory_left_football.856a3211.png": "/generator-experiments/static/media/14accessory_left_football.856a3211.png",
     "static/media/14accessory_left_football.fbf8cdb0.png": "/generator-experiments/static/media/14accessory_left_football.fbf8cdb0.png",
     "static/media/14accessory_left_gladius.b5bbc095.png": "/generator-experiments/static/media/14accessory_left_gladius.b5bbc095.png",
@@ -474,6 +474,6 @@
     "static/js/runtime-main.e3e6b4c4.js",
     "static/js/2.32bc86b5.chunk.js",
     "static/css/main.6a207050.chunk.css",
-    "static/js/main.74d7af33.chunk.js"
+    "static/js/main.465eb9e1.chunk.js"
   ]
 }
