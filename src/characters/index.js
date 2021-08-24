@@ -977,6 +977,7 @@ const getRandomBodyParts = () => {
     down: getRandomVariant("down"),
     eyes: getRandomVariant("eyes"),
     eyebrows: getRandomVariant("eyebrows"),
+    eyegear: getRandomVariant("eyegear"),
     mouth: getRandomVariant("mouth"),
     hair: getRandomVariant("hair"),
     headgear: getRandomVariant("headgear"),
